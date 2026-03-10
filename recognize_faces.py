@@ -38,7 +38,7 @@ while True:
 
         id, conf = recognizer.predict(gray[y:y+h, x:x+w])
 
-        if conf < 40:
+        if conf < 80:
             known_counter += 1
             unknown_counter = 0
         else:
