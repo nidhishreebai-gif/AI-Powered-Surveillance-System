@@ -1,1 +1,3 @@
-Added mobile camera support feature.
+Added mobile camera integration feature for AI Surveillance system.
+
+
